@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Changes to the remote master.
 Second change to the remote master.
+A new line added.
